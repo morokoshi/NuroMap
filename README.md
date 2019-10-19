@@ -4,12 +4,12 @@ NURO 光 (https://www.nuro.jp/) の提供エリアをパースして、Google �
 
 # 2019/10/17に作成したサンプル
 ## 愛知県
-お申し込みいただけません
+### お申し込みいただけません
 - https://drive.google.com/open?id=1vv0hTSflUMJv-DlZ0cxcQ3gWfId5DEaB&usp=sharing
 - https://drive.google.com/open?id=10eFS3yoAUnjtkaufgvvS-S8Htycg0Jy0&usp=sharing
-提供エリアです (要確認)
+### 提供エリアです (要確認)
 - https://drive.google.com/open?id=1QipmjgoBS6N_gzxBqgPHj_ideHBq3DEQ&usp=sharing
-提供エリアです
+### 提供エリアです
 - https://drive.google.com/open?id=1YDXdBTmcQsNu5phOFtlAiiWjy2Anxygx&usp=sharing
 - https://drive.google.com/open?id=1APvTqTjG0a7g8dGJLI5G6zkdUbkDea0F&usp=sharing
 
